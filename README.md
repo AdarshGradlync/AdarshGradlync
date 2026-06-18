@@ -17,6 +17,13 @@ My work focuses on Aerospace Engineering, Artificial Intelligence, Autonomous Sy
 * Flight Dynamics and Control
 * AI for Aerospace Applications
 
+  ## Research & Innovation
+
+- PhD Research in Swarm UAV Systems
+- Research Funding Management
+- AICTE ATAL, MODROBS, SPICES and RPS Projects
+- UAV Startup Mentoring and Innovation Ecosystems
+
 ---
 
 ## 🔬 Current Research
