@@ -2,7 +2,7 @@
 
 ### Professor | Aerospace Engineer | Researcher
 
-I am an Assistant Professor in the Department of Aerospace and Automotive Engineering at M. S. Ramaiah University of Applied Sciences (MSRUAS), Bengaluru.
+I am an Assistant Professor in the Department of Aerospace Engineering at M. S. Ramaiah University of Applied Sciences (MSRUAS), Bengaluru.
 
 My work focuses on Aerospace Engineering, Artificial Intelligence, Autonomous Systems, and Swarm UAV Research.
 
